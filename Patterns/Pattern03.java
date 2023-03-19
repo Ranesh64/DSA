@@ -1,10 +1,11 @@
+package Patterns;
 
-public class Pattern04 {
+public class Pattern03 {
     static void printTriangle(int n) {
         // code here
         for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                System.out.print(i + " ");
+            for (int j = 1; j <= i; j++) {
+                System.out.print(j + " ");
             }
             System.out.println();
         }

@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern09 {
     void printDiamond(int n) {
         // Your code here

@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern07 {
     static void printTriangle(int n) {
         // code here

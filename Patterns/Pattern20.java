@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern20 {
     void printTriangle(int n) {
         // code here

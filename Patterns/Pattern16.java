@@ -1,16 +1,15 @@
-public class Pattern18 {
+package Patterns;
+
+public class Pattern16 {
     void printTriangle(int n) {
         // code here
         char s = 'A';
-        s += n - 1;
-        char temp;
         for (int i = 1; i <= n; i++) {
-            temp = s;
             for (int j = 0; j < i; j++) {
-                System.out.print(temp-- + " ");
+                System.out.print(s);
             }
+            s++;
             System.out.println();
-
         }
     }
 }

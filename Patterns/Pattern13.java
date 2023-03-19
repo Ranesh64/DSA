@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern13 {
     void printTriangle(int n) {
         int a = 1;

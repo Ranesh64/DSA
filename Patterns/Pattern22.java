@@ -1,3 +1,5 @@
+package Patterns;
+
 public class Pattern22 {
     void printSquare(int n) {
         // code here
