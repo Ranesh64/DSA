@@ -1,4 +1,4 @@
-public class Pattern9 {
+public class Pattern09 {
     void printDiamond(int n) {
         // Your code here
         for (int i = 1; i <= n; i++) {

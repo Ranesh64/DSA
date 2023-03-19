@@ -1,4 +1,4 @@
-public class Pattern8 {
+public class Pattern08 {
     void printTriangle(int n) {
         // code here
         for (int i = n; i > 0; i--) {

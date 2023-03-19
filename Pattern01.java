@@ -1,5 +1,5 @@
 
-public class Pattern1 {
+public class Pattern01 {
 
     static void printSquare(int n) {
         // code here

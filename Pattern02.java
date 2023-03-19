@@ -1,5 +1,5 @@
 
-public class Pattern2 {
+public class Pattern02 {
 
     static void printTriangle(int n) {
         // code here
